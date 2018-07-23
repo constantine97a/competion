@@ -1,0 +1,6 @@
+*/.idea/
+*.pyc
+.idea
+__MACOSX
+.vscode
+*py[cod]
