@@ -1,0 +1,3 @@
+model_checkpoint_path: "my_logreg_model.ckpt"
+all_model_checkpoint_paths: "/home/yyin/workspace/Algorithem/catetory/Watsonbaoxi90@outlook.com/code/model/my_logreg_model_3"
+all_model_checkpoint_paths: "my_logreg_model.ckpt"
