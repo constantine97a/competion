@@ -13,7 +13,7 @@ import xlrd
 pwd = os.getcwd()
 
 raw_standard_path = pwd + '/data/运输货物的分类和代码-细分.xlsx'
-raw_pre_path = pwd + '/data/data.xlsx'
+raw_pre_path = pwd + '/data/货物分类训练数据.xlsx'
 
 pre_1 = pwd + '/data/pre1.conll'
 pre_2 = pwd + '/data/class.conll'
